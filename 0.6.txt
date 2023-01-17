@@ -19,4 +19,4 @@ that renders notes to display
 end note
 
 browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
-server-->browser: HTTP 201 created
+server-->browser: 201 created
